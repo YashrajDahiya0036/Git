@@ -172,6 +172,7 @@ def calculate_points(num):
         num-=1
     return x
 
+#GAME FUNCTION
 def quit_game(z=False) :
      if ans == "Quit" or ans == "quit" or ans == "q" or ans == "Q":
         y = None
